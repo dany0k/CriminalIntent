@@ -11,7 +11,6 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.CheckBox
 import android.widget.EditText
-import ru.vsu.cs.zmaev.criminalintent.Crime
 
 //import androidx.fragment.app.Fragment
 
